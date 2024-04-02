@@ -1,6 +1,6 @@
 {
   "name": "p1_simple_calculater",
-  "version": "2.0.4",
+  "version": "2.1.5",
   "description": "a simple calculater",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "farisshah",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16"
   },
