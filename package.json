@@ -1,6 +1,6 @@
 {
   "name": "p1_simple_calculater",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "a simple calculater",
   "main": "index.js",
   "type": "module",
